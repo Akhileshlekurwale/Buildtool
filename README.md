@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Bappy 😀</h1>
-<h4 align="center">I'm a Data Scientist at iNeuron Intelligence</h4>
+<h1 align="center">I'm Akhilesh 😀</h1>
+<h4 align="center">I'm a Data Scientist </h4>
 
 
 
@@ -9,10 +9,9 @@
 * Machine Learning
 * Computer vision 
 * Natural Language Processing 
-* Microcontrollers 
-* Robotics
 
-👉[My Online Portfolio](https://entbappy.github.io/bappy-portfolio)
+
+👉[My Online Portfolio](https://github.com/Akhileshlekurwale)
 
 
 <h3 align="left">Languages and Tools:</h3>
