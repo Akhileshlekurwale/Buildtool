@@ -2,7 +2,7 @@
 <h1 align="center">I'm Akhilesh 😀</h1>
 <h4 align="center">I'm a Data Scientist </h4>
 
-
+|Python|_ |Machine Learning|_ |Pandas|_ |CircleCI|_
 
 ### I have technical experience and interest in:
 * Deep Learning
