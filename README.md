@@ -2,9 +2,7 @@
 <h1 align="center">I'm Akhilesh 😀</h1>
 <h4 align="center">I'm a Data Scientist </h4>
 
-|Python|_ |Machine Learning|_ |Pandas|_ |CircleCI|_
-.. |Python| image:: https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=main
-.. _Python: https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=main
+
 
 ### I have technical experience and interest in:
 * Deep Learning
